@@ -60,16 +60,18 @@ Sends the current clock and slider state through a unique URL
 
 ### Login Page
 
-https://github.com/user-attachments/assets/f4cfdb5c-9a96-498d-a0d9-a5455f76eb08
+
+![Login](https://github.com/user-attachments/assets/35ddce0e-f7a9-4a01-8de5-13754006e0d5)
 
 
 ### Register Page
 
-https://github.com/user-attachments/assets/d22f12c8-9221-4d95-bdd3-320b88fc25c2
+![Reg](https://github.com/user-attachments/assets/01de3fe1-d122-4132-b6c3-18558e2c64f6)
+
 
 ### Main Dashboard
 
-https://github.com/user-attachments/assets/44032177-a92b-4f83-9997-3c082d3c75e3
+![Main](https://github.com/user-attachments/assets/855e1629-d4d3-4361-8e67-70566822430b)
 
 
 ---
@@ -95,31 +97,32 @@ API Integration: External quote/message API
 ### 1. Clone the repository
 
 git clone https://github.com/your-username/pren-login-authentication.git
-cd pren-login-authentication
+
+```cd pren-login-authentication```
 
 ### 2. Install dependencies
 
 For frontend:
 
-cd client
-npm install
+```cd client```
+```npm install```
 
 For backend:
 
-cd server
-npm install
+```cd server```
+```npm install```
 
 ### 3. Set up environment variables
 
 Create a .env file in the /server directory:
 
-PORT=5000
-DATABASE_URL=your_postgresql_connection_url
-JWT_SECRET=your_secret_key
+```PORT=5000```
+```DATABASE_URL=your_postgresql_connection_url```
+```JWT_SECRET=your_secret_key```
 
 For quote API (optional), create a .env in the /client:
 
-REACT_APP_API_KEY=your_api_key_here
+```REACT_APP_API_KEY=your_api_key_here```
 
 
 ---
@@ -128,13 +131,13 @@ REACT_APP_API_KEY=your_api_key_here
 
 Start Backend
 
-cd server
-npm run dev
+```cd server```
+```npm run dev```
 
 Start Frontend
 
-cd client
-npm start
+```cd client```
+```npm start```
 
 Then open http://localhost:3000 in your browser.
 
