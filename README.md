@@ -1,13 +1,11 @@
 # PERN-loginAuthentication
 
-PREN Login Authentication
-
 A full-stack web application built using the PERN stack — PostgreSQL, Express.js, React.js, and Node.js — focused on user authentication, real-time visuals, and collaborative features.
 
 
 ---
 
-🚀 Description
+## 🚀 Description
 
 PREN Login Authentication is a dynamic web application that combines secure user management with a visually engaging interface. This project features an anti-clockwise analog clock, a slider to control clock speed, dynamic messaging from an API, and a shareable link feature for seamless collaboration.
 
@@ -16,9 +14,9 @@ Built as a part of my journey to explore full-stack development, this project pu
 
 ---
 
-🔑 Features
+## 🔑 Features
 
-🔐 Authentication
+### 🔐 Authentication
 
 Secure user registration and login
 
@@ -27,28 +25,28 @@ Email/password-based authentication
 Session/token management
 
 
-🕒 Real-time Clock
+### 🕒 Real-time Clock
 
 Analog clock with a unique twist — it runs anticlockwise
 
 Built using custom logic in React with real-time rendering
 
 
-🎛 Clock Speed Control
+### 🎛 Clock Speed Control
 
 Adjustable clock hand speed via interactive slider
 
 Dynamic, real-time updates visible in the UI
 
 
-💬 API Integration
+### 💬 API Integration
 
 Random messages or quotes fetched from an external API
 
 Auto-refreshes every 5 seconds for fresh content
 
 
-🔗 Shareable Link
+### 🔗 Shareable Link
 
 Single-click URL sharing
 
@@ -58,24 +56,24 @@ Sends the current clock and slider state through a unique URL
 
 ---
 
-📸 Screenshots
+## 📸 Screenshots
 
-Login Page
-
-
-
-Register Page
+### Login Page
 
 
 
-Main Dashboard
+### Register Page
+
+
+
+### Main Dashboard
 
 
 
 
 ---
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 Frontend: React.js, Tailwind CSS, Framer Motion
 
@@ -91,14 +89,14 @@ API Integration: External quote/message API
 
 ---
 
-⚙️ Installation
+## ⚙️ Installation
 
-1. Clone the repository
+### 1. Clone the repository
 
 git clone https://github.com/your-username/pren-login-authentication.git
 cd pren-login-authentication
 
-2. Install dependencies
+### 2. Install dependencies
 
 For frontend:
 
@@ -110,7 +108,7 @@ For backend:
 cd server
 npm install
 
-3. Set up environment variables
+### 3. Set up environment variables
 
 Create a .env file in the /server directory:
 
@@ -125,7 +123,7 @@ REACT_APP_API_KEY=your_api_key_here
 
 ---
 
-4. Run the app
+### 4. Run the app
 
 Start Backend
 
@@ -158,18 +156,18 @@ Then open http://localhost:3000 in your browser.
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 
 Pull requests are welcome. For major changes, open an issue first to discuss what you’d like to change.
 
 
 ---
 
-📬 Contact
+## 📬 Contact
 
-LinkedIn: Rinika Koley
+#### LinkedIn: Rinika Koley
 
-Email: rinikakoleycollege@gmail.com
+#### Email: rinikakoleycollege@gmail.com
 
 
 
