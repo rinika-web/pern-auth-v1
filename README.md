@@ -1,4 +1,4 @@
-# PERN-loginAuthentication
+# pern-auth-v1
 
 A full-stack web application built using the PERN stack — PostgreSQL, Express.js, React.js, and Node.js — focused on user authentication, real-time visuals, and collaborative features.
 
