@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .share-button {
     background-color: rgba(62, 136, 80, 0.776);
     margin-right: 4px;
@@ -12,4 +13,20 @@
     height: 30px;
     width: 55px;
     color: rgb(34, 5, 4);
+=======
+.share-button {
+    background-color: rgba(62, 136, 80, 0.776);
+    margin-right: 4px;
+    height: 30px;
+    width: 55px;
+    color: rgb(34, 5, 4);
+}
+
+.back-button {
+    background-color: rgba(62, 136, 80, 0.776);
+    margin-right: 4px;
+    height: 30px;
+    width: 55px;
+    color: rgb(34, 5, 4);
+>>>>>>> a22ba8e105576088539db90eed3c976d19666723
 }
